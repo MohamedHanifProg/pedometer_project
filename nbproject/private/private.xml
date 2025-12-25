@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/shenkar/embeded/CuriosityOledBase.X/oledDriver/oledC.c</file>
+            <file>file:/C:/shenkar/embeded/CuriosityOledBase.X/oledDriver/pin_manager.h</file>
+            <file>file:/C:/shenkar/embeded/CuriosityOledBase.X/System/clock.c</file>
+            <file>file:/C:/shenkar/embeded/CuriosityOledBase.X/oledDriver/oledC_shapes.c</file>
+            <file>file:/C:/shenkar/embeded/CuriosityOledBase.X/System/system.c</file>
+            <file>file:/C:/shenkar/embeded/CuriosityOledBase.X/oledDriver/oledC.h</file>
+            <file>file:/C:/shenkar/embeded/CuriosityOledBase.X/System/delay.c</file>
+            <file>file:/C:/shenkar/embeded/CuriosityOledBase.X/main.c</file>
+            <file>file:/C:/shenkar/embeded/CuriosityOledBase.X/Accel_i2c.c</file>
+            <file>file:/C:/shenkar/embeded/CuriosityOledBase.X/oledDriver/oledC_shapes.h</file>
+            <file>file:/C:/shenkar/embeded/CuriosityOledBase.X/oledDriver/oledC_shapeHandler.c</file>
+            <file>file:/C:/shenkar/embeded/CuriosityOledBase.X/i2cDriver/i2c1_driver.c</file>
+            <file>file:/C:/shenkar/embeded/CuriosityOledBase.X/oledDriver/oledC_colors.h</file>
+            <file>file:/C:/shenkar/embeded/CuriosityOledBase.X/System/traps.c</file>
+            <file>file:/C:/shenkar/embeded/CuriosityOledBase.X/oledDriver/oledC_shapeHandler.h</file>
+            <file>file:/C:/shenkar/embeded/CuriosityOledBase.X/System/system.h</file>
+            <file>file:/C:/shenkar/embeded/CuriosityOledBase.X/spiDriver/spi1_driver.c</file>
+        </group>
+    </open-files>
+</project-private>
